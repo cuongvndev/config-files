@@ -4,4 +4,4 @@ security:
     header: Authorization
     prefix: Bearer 
     expiration: 86400
-    secret: JwtSecretKeyZuul
+    secret: JwtSecretKey
